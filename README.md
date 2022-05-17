@@ -11,7 +11,7 @@ Download the repository and unzip or clone the repository using git:
 `git clone git@github.com:khanhmaibui/thiefescape.git`
 
 ## Generate an executable JAR file
-In your terminal, move to phase2 folder of the project.
+In your terminal, move to project folder of the project.
 
 Generate executable JAR file for the project by running the following maven command:
 
