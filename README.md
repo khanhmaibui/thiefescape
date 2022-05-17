@@ -8,7 +8,7 @@ Maven version: 3.8.4
 ## Download program
 Download the repository and unzip or clone the repository using git:
 
-`git clone git@csil-git1.cs.surrey.sfu.ca:cmpt276s22_group23/project.git`
+`git clone git@github.com:khanhmaibui/thiefescape.git`
 
 ## Generate an executable JAR file
 In your terminal, move to phase2 folder of the project.
