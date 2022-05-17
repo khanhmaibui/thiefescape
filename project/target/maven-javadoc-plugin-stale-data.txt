@@ -1,0 +1,55 @@
+@options
+@packages
+-classpath
+'/Users/buimaikhanh/.m2/repository/org/openjfx/javafx-controls/17.0.1/javafx-controls-17.0.1.jar:/Users/buimaikhanh/.m2/repository/org/openjfx/javafx-controls/17.0.1/javafx-controls-17.0.1-mac-aarch64.jar:/Users/buimaikhanh/.m2/repository/org/openjfx/javafx-graphics/17.0.1/javafx-graphics-17.0.1.jar:/Users/buimaikhanh/.m2/repository/org/openjfx/javafx-graphics/17.0.1/javafx-graphics-17.0.1-mac-aarch64.jar:/Users/buimaikhanh/.m2/repository/org/openjfx/javafx-base/17.0.1/javafx-base-17.0.1.jar:/Users/buimaikhanh/.m2/repository/org/openjfx/javafx-base/17.0.1/javafx-base-17.0.1-mac-aarch64.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'/Users/buimaikhanh/thiefescape/project/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/buimaikhanh/thiefescape/project/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'project 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/buimaikhanh/thiefescape/project/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'project 1.0-SNAPSHOT API'
+classes
+classes.barrier
+game
+/Users/buimaikhanh/.m2/repository/org/openjfx/javafx-controls/17.0.1/javafx-controls-17.0.1.jar = 1646682710510
+/Users/buimaikhanh/.m2/repository/org/openjfx/javafx-controls/17.0.1/javafx-controls-17.0.1-mac-aarch64.jar = 1646682710397
+/Users/buimaikhanh/.m2/repository/org/openjfx/javafx-graphics/17.0.1/javafx-graphics-17.0.1.jar = 1646682710067
+/Users/buimaikhanh/.m2/repository/org/openjfx/javafx-graphics/17.0.1/javafx-graphics-17.0.1-mac-aarch64.jar = 1646682710511
+/Users/buimaikhanh/.m2/repository/org/openjfx/javafx-base/17.0.1/javafx-base-17.0.1.jar = 1646682710133
+/Users/buimaikhanh/.m2/repository/org/openjfx/javafx-base/17.0.1/javafx-base-17.0.1-mac-aarch64.jar = 1646682710925
+/Users/buimaikhanh/thiefescape/project/src/main/java = 1652747166816
+/Users/buimaikhanh/thiefescape/project/target/site/apidocs/tag-search-index.js = 1652747837159
+/Users/buimaikhanh/thiefescape/project/target/site/apidocs/overview-tree.html = 1652747837149
+/Users/buimaikhanh/thiefescape/project/target/site/apidocs/module-search-index.js = 1652747837158
+/Users/buimaikhanh/thiefescape/project/target/site/apidocs/index.html = 1652747837151
+/Users/buimaikhanh/thiefescape/project/target/site/apidocs/package-search-index.js = 1652747837159
+/Users/buimaikhanh/thiefescape/project/target/site/apidocs/jquery-ui.overrides.css = 1652747837173
+/Users/buimaikhanh/thiefescape/project/target/site/apidocs/index-all.html = 1652747837165
+/Users/buimaikhanh/thiefescape/project/target/site/apidocs/allpackages-index.html = 1652747837158
+/Users/buimaikhanh/thiefescape/project/target/site/apidocs/member-search-index.js = 1652747837159
+/Users/buimaikhanh/thiefescape/project/target/site/apidocs/script.js = 1652747837168
+/Users/buimaikhanh/thiefescape/project/target/site/apidocs/stylesheet.css = 1652747837168
+/Users/buimaikhanh/thiefescape/project/target/site/apidocs/overview-summary.html = 1652747837166
+/Users/buimaikhanh/thiefescape/project/target/site/apidocs/help-doc.html = 1652747837167
+/Users/buimaikhanh/thiefescape/project/target/site/apidocs/element-list = 1652747837122
+/Users/buimaikhanh/thiefescape/project/target/site/apidocs/allclasses-index.html = 1652747837157
+/Users/buimaikhanh/thiefescape/project/target/site/apidocs/type-search-index.js = 1652747837159
+/Users/buimaikhanh/thiefescape/project/target/site/apidocs/search.js = 1652747837169
