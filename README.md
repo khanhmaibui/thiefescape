@@ -51,4 +51,4 @@ You can generate javadocs for the project by running the following command:
 
 `mvn javadoc:javadoc`
 
-The Javadocs are located in the `target/site/apidocs` directory and can be viewed by opening the index.html file in your browser.
+The Javadocs would be located in the `target/site/apidocs` directory and can be viewed by opening the index.html file in your browser.
